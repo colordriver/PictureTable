@@ -1,0 +1,13 @@
+C:\WorkProject\MatrixPicutre\MatrixPicutre\bin\Debug\MatrixPicutre.exe.config
+C:\WorkProject\MatrixPicutre\MatrixPicutre\bin\Debug\MatrixPicutre.exe
+C:\WorkProject\MatrixPicutre\MatrixPicutre\bin\Debug\MatrixPicutre.pdb
+C:\WorkProject\MatrixPicutre\MatrixPicutre\bin\Debug\TableLayoutPicture.dll
+C:\WorkProject\MatrixPicutre\MatrixPicutre\bin\Debug\TableLayoutPicture.pdb
+C:\WorkProject\MatrixPicutre\MatrixPicutre\obj\Debug\MatrixPicutre.csprojAssemblyReference.cache
+C:\WorkProject\MatrixPicutre\MatrixPicutre\obj\Debug\MatrixPicutre.Form1.resources
+C:\WorkProject\MatrixPicutre\MatrixPicutre\obj\Debug\MatrixPicutre.Properties.Resources.resources
+C:\WorkProject\MatrixPicutre\MatrixPicutre\obj\Debug\MatrixPicutre.csproj.GenerateResource.cache
+C:\WorkProject\MatrixPicutre\MatrixPicutre\obj\Debug\MatrixPicutre.csproj.CoreCompileInputs.cache
+C:\WorkProject\MatrixPicutre\MatrixPicutre\obj\Debug\MatrixPicutre.csproj.CopyComplete
+C:\WorkProject\MatrixPicutre\MatrixPicutre\obj\Debug\MatrixPicutre.exe
+C:\WorkProject\MatrixPicutre\MatrixPicutre\obj\Debug\MatrixPicutre.pdb

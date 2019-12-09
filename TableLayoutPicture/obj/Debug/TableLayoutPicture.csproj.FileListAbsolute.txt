@@ -1,0 +1,7 @@
+C:\WorkProject\MatrixPicutre\TableLayoutPicture\bin\Debug\TableLayoutPicture.dll
+C:\WorkProject\MatrixPicutre\TableLayoutPicture\bin\Debug\TableLayoutPicture.pdb
+C:\WorkProject\MatrixPicutre\TableLayoutPicture\obj\Debug\TableLayoutPicture.PictureTable.resources
+C:\WorkProject\MatrixPicutre\TableLayoutPicture\obj\Debug\TableLayoutPicture.csproj.GenerateResource.cache
+C:\WorkProject\MatrixPicutre\TableLayoutPicture\obj\Debug\TableLayoutPicture.csproj.CoreCompileInputs.cache
+C:\WorkProject\MatrixPicutre\TableLayoutPicture\obj\Debug\TableLayoutPicture.dll
+C:\WorkProject\MatrixPicutre\TableLayoutPicture\obj\Debug\TableLayoutPicture.pdb
